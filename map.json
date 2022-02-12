@@ -56,8 +56,14 @@
          "id":54,
          "name":"silent",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"silent",
+                 "type":"bool",
+                 "value":true
+                }],
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":73,
          "x":0,
          "y":0
